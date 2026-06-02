@@ -1,4 +1,4 @@
-从项目根目录运行：
-node img/convert-skin.js img/你的皮肤.png img/godofredoninja.png
+方式一：在页面上点击「上传皮肤」按钮，选择 64×64 PNG 即可自动转换（推荐）
 
-皮肤下载网址推荐：https://www.minecraftskins.com/
+方式二：命令行转换
+  node img/convert-skin.js img/你的皮肤.png img/godofredoninja.png
