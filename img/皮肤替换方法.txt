@@ -1,2 +1,4 @@
 从项目根目录运行：
 node img/convert-skin.js img/你的皮肤.png img/godofredoninja.png
+
+皮肤下载网址推荐：https://www.minecraftskins.com/
