@@ -86,7 +86,7 @@
   linkHome.className = 'SkinToggle-item'
   linkHome.textContent = '作者主页'
   linkHome.addEventListener('click', function () {
-    window.open('https://mgod.cc', '_blank')
+    window.open('https://www.meng.me', '_blank')
     closeMenu()
   })
 
